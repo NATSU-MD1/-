@@ -1,7 +1,7 @@
 {
   "name": "NATSU-MD",
-  "description": "Javascript WhatsApp bot made by natsu boy tech",
-  "logo": "your url bot",
+  "description": "WhatsApp bot made by natsu boy tech",
+  "logo": "https://files.catbox.moe/s1ggtt.jpeg",
   "keywords": ["NATSU-MD"],
   "success_url": "/",
 
@@ -84,7 +84,7 @@
      }, 
     
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
+      "description": "WhatsApp bot made by natsu boy tech.",
       "required": false,
       "value": "NATSU BOY"
 }, 
@@ -92,7 +92,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "554xxxxxx"
+      "value": "509xxxxxx"
 
     }, 
 
