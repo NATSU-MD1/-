@@ -8,17 +8,12 @@
   <img src="https://files.catbox.moe/s1ggtt.jpeg" width="800"/>
 </p>
 
----
 
 ## ✨ Generate Your Session ID
 
 Secure your WhatsApp session to get started:
 
-<p align="center">
-  <a href="(https://natsu-dev-session.onrender.com)">
-    <img src="https://img.shields.io/badge/GET%20SESSION-Generate%20Now-DB7093?style=for-the-badge&logo=whatsapp" />
-  </a>
-</p>
+[![GET SESSION](https://img.shields.io/badge/GET%20SESSION-Generate%20Now-DB7093?style=for-the-badge&logo=whatsapp)](https://natsu-y2o7.onrender.com)
 
 ---
 
@@ -26,17 +21,12 @@ Secure your WhatsApp session to get started:
 
 Stay updated and get support:
 
-<p align="center">
-  <a href="https://whatsapp.com/channel/0029VbBdQOZHFxP42Sh9Ia1U">
-    <img src="https://img.shields.io/badge/JOIN%20CHANNEL-WhatsApp%20Support-32CD32?style=for-the-badge&logo=whatsapp" />
-  </a>
-</p>
+[![WHATSAPP CHANNEL](https://img.shields.io/badge/JOIN%20CHANNEL-WhatsApp%20Support-32CD32?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbBdQOZHFxP42Sh9Ia1U)
 
----
 
 ## 🐲 CI/CD Workflow Example
 
-`.github/workflows/deploy.yml`
+.github/workflows/deploy.yml
 
 ```yaml
 name: Node.js CI
