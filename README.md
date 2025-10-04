@@ -15,7 +15,7 @@
 Secure your WhatsApp session to get started:
 
 <p align="center">
-  <a href="[ ](https://natsu-dev-session.onrender.com)">
+  <a href="(https://natsu-dev-session.onrender.com)">
     <img src="https://img.shields.io/badge/GET%20SESSION-Generate%20Now-DB7093?style=for-the-badge&logo=whatsapp" />
   </a>
 </p>
